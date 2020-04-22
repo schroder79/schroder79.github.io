@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            body { 
+                font-size: 17px;
+                font-family: "Verdana", sans-serif;
+                color: rgb(63, 9, 240);
+                
+            }
+            H2 {
+                color: rgb(230, 230, 23);
+            }
+            li {
+                font-size:.85em;
+                font-weight: 148;
+                font-variant: small-caps;
+                color: rgb(242, 44, 242);
+            }
+        </style>
+
+    </head>
+    <body>
+        
+        <h1>Robert Blankenbehler's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#first-post">First post!</a></li>
+            <li><a href="#second-post">Second post!</a></li>
+        </ul>
+        
+        <h2 id="first-post">First post</h2>
+        <h6>4/22/2020</h6>
+        
+        <p>Today was the first time I started posting on my adventure to becoming a computer programmer. It is something that I always wanted to try but never got the chance. I started learning about computers when I was in gradeschool, but only enjoyed them for creating games. Now I am becoming more and more involved and hope to become quite good. Here are some of my beginning projects. </p>
+        
+                <ul>
+            <li>Cook book</li>
+            <li>Article about dogs</li>
+        </ul>
+        <p>
+            Here are some ideas that I would like to put into future posts.
+        </p>   
+            <ul>
+                <li>Song lyrics</li>
+                <li>Optometry related items</li>
+                <li>first aid</li>
+            </ul>
+       
+        
+        <h2 id="second-post">Second Post</h2>
+        <h6>I don't have a second post but I will sometime this year. </h6>
+        
+        <p>Hopefully I will learn to </p>
+    </body>
+</html>
